@@ -1,5 +1,7 @@
 ![Noisium icon](https://raw.githubusercontent.com/coredex-source/noisium/24de632923c03864d65568a2cb5ce1e2cee0a304/docs/assets/icon/icon_128x128.png)
 
+### Please use [FastNoise by ZenXArch](https://codeberg.org/ZenXArch/FastNoise) instead.
+
 # Noisium Forked
 
 This mod is a fork of the orignal and now unmaintained mod [Noisium](https://github.com/Steveplays28/noisium).
